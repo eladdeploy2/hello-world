@@ -1,5 +1,5 @@
 {
-    "name": "eladr/elad-common-2",
+    "name": "eladr/elad-common",
     "description": "Sample Composer project",
     "keywords":    ["helloworld", "sample", "test"],
     "type":        "library",
