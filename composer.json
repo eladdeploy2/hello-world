@@ -1,12 +1,12 @@
 {
-    "name": "eladr/elad-common",
+    "name": "rivsen/hello-world",
     "description": "Sample Composer project",
     "keywords":    ["helloworld", "sample", "test"],
     "type":        "library",
     "license":     "MIT",
     "authors": [
         {
-            "name": "EladPackage2",
+            "name": "kuku1",
             "email": "dodomeki@gmail.com"
         },
         {

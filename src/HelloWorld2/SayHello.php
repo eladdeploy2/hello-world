@@ -6,6 +6,6 @@ Class SayHello
 {
     public static function world()
     {
-        return 'Hello AFTER takeover13.0.4!';
+        return 'Hello rivsen/hello-world';
     }
 }
