@@ -6,6 +6,6 @@ Class SayHello
 {
     public static function world()
     {
-        return 'Hello rivsen/hello-world';
+        return 'Hello rivsen/hello-world2';
     }
 }
